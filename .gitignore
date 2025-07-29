@@ -1,0 +1,9 @@
+venv/
+VENV/
+.venv/
+.env/
+data/
+DATA/
+Thumbs.db
+Desktop.ini
+__pycache__/
